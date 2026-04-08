@@ -1,2 +1,1 @@
-# FASE-Functional-Agentic-Sentiment-Engine
-An autonomous agentic engine integrating real-time market sentiment (35%) with fundamental quantitative analysis (65%) to identify high-alpha trade opportunities.
+Financial Agentic Sentiment Engine (FASE) with VERITAS Auditor. An AI-driven quant framework that identifies 'Kinetic Alpha' by filtering market sentiment through real-world maritime and production logistics. Built for Healy Vector Labs.

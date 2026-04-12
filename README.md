@@ -1,30 +1,35 @@
-# ⚡ FASE v4.1 | Financial Agentic Sentiment Engine
-*Healy Vector Labs: Turning Market Noise into Kinetic Alpha.*
+# ⚡ FASE v5.0 | The Chore Boy Protocol
+### *Powered by the VERITAS Auditor*
 
-FASE is a proprietary, agentic framework designed to identify market mispricings by filtering real-time sentiment through the **VERITAS Auditor**—a logic layer that cross-references "News Noise" against "Kinetic Reality" (maritime transits, energy costs, and production logistics).
+**Healy Vector Labs: Scrubbing Market Noise for Kinetic Alpha.**
 
-## 🕵️ LIVE AUDIT: $META (Meta Platforms)
-*Date:* April 11, 2026 | *Market Condition:* AI Infrastructure Surge
+FASE (Functional Agentic Sentiment Engine) is a proprietary framework designed to isolate high-conviction signals (**Rangus**) by filtering global sentiment through the **VERITAS Auditor**. While the market fixates on "Hype" (Hunks), FASE cross-references headlines against **Kinetic Reality**: maritime transits, energy grid volatility, and production logistics.
 
-### The v4.1 Divergence Analysis
-- **Market Sentiment (Noise):** *0.72* (Bullish on AI Fiber/Ceasefire)
-- **Variable 8 (Energy Tax):** *-0.15* (Electricity costs surging in PJM Interconnection)
-- **VERITAS Truth Score:** *0.08* (92% Divergence from headlines)
-- **Status:** 🔴 **BEARISH DIVERGENCE DETECTED**
+---
 
-*Strategic Insight:* While the news pumps "Peace" and "Fiber Deals," the **VERITAS Auditor** confirms that physical maritime transits in the **Strait of Hormuz** remain stalled (0.11 Multiplier) and the **Energy Tax** is cannibalizing AI margins. Kinetic Alpha is found in the gap between the "Fiber Headline" and the "Power Bill."
+## 🧼 THE CHORE BOY LOGIC
+In the Lab, we don't just "analyze"—we scrub. 
 
-## 🛠️ CORE ARCHITECTURE
-- **Sentiment Scraper:** Real-time analysis of geopolitical and infrastructure headlines using TextBlob and GoogleNews.
-- **VERITAS Auditor:** A proprietary multi-variable filter:
-    - **Variable 5 (Logistics):** 0.11 Multiplier for maritime chokepoints.
-    - **Variable 8 (Energy):** Dynamic "Power Tax" based on real-time XLE volatility and grid costs.
-- **Agentic Pipeline:** Modular Python-based execution for 24/7 "War Room" uptime.
+1. **The Hunks (Noise):** Pure retail sentiment, "Moon-talk," and unverified geopolitical rumors. 
+2. **The Rangus (Signal):** Clean data validated by the **VERITAS Truth Score**. 
 
-## 🚀 EXECUTABLE ENGINE
-This repository contains the live production script.
-- **File:** `FASE_Master_Engine_v4.py`
-- **Access:** Optimized for terminal execution or local Streamlit deployment.
+### **The Scrubber Variables:**
+* **Variable 5 (Logistics):** 0.11 Multiplier for maritime chokepoints (Strait of Hormuz/Suez).
+* **Variable 8 (Energy):** Dynamic "Power Tax" tracking XLE volatility and grid costs.
+* **The Rangus Ratio:** Cleaned sentiment cross-referenced against the **9-day EMA / 21-day SMA** crossover.
 
-*Lead AI Architect:* Michael Mills Healy  
-*Founder:* Healy Vector Labs █
+---
+
+## 🕵️ CURRENT LIVE AUDIT: $META & $TSLA
+* **Market Sentiment:** 0.72 (Bullish Noise)
+* **VERITAS Truth Score:** 0.08 (Bearish Reality)
+* **Verdict:** 🔴 **HUNK DETECTED.** Divergence in energy costs cannibalizing AI margins.
+
+---
+
+## 🛠️ ARCHITECTURE
+* **Agentic Pipeline:** Modular Python execution for 24/7 uptime.
+* **Vectorized Ingestion:** Scraping news noise for real-time scrubbing.
+* **Executable:** `FASE_Master_Engine_v4.py`
+
+**Lead AI Architect:** Michael Mills Healy | **Founder:** Healy Vector Labs █

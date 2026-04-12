@@ -1,0 +1,6 @@
+pandas          # Data handling (The Chassis)
+numpy           # Math/Vector logic (The Pistons)
+yfinance        # Real-time technicals (The Fuel Line)
+nltk            # Language processing (The Scrubber)
+scikit-learn    # Sentiment analysis (The Brain)
+python-dotenv   # Security/API Shield (The Locks)
